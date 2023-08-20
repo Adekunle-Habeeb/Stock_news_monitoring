@@ -13,8 +13,8 @@ NEWS_ENDPOINT= "https://newsapi.org/v2/everything"
 STOCK_API_KEY = "Y1EDAXEI3Q4GC72A"
 
 
-TWILIO_SID = "AC31692a5c75db15273581b90911bdd33a"
-TWILIO_AUTH_TOKEN = "eaab54fda8c1656d33e628bb270f98ed"
+# TWILIO_SID = add your twilio SID
+#TWILIO_AUTH_TOKEN = add your twilio auth token
 
 stock_params = {
     "function": "TIME_SERIES_DAILY",
